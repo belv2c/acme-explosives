@@ -1,0 +1,115 @@
+{
+    "products": [{
+        "refridgerator": {
+            "id": 0,
+            "type": 0,
+            "name": "Refridgerator",
+            "description": "A machine for keeping things cold."
+        },
+         "oven": {
+            "id": 0,
+            "type": 0,
+            "name": "Oven",
+            "description": "A machine commonly used for cooking."
+        },
+         "dish_washer": {
+            "id": 0,
+            "type": 0,
+            "name": "Dish Washer",
+            "description": "A machine for washing dirty dishes."
+        },
+         "bathtub": {
+            "id": 1,
+            "type": 0,
+            "name": "Bathtub",
+            "description": "Wash yo self."
+        },
+         "sink": {
+            "id": 1,
+            "type": 0,
+            "name": "Sink",
+            "description": "Wash yo hands."
+        },
+         "shower-head": {
+            "id": 1,
+            "type": 0,
+            "name": "Shower Head",
+            "description": "Take a shower instead of a bath you weirdo."
+        },
+         "vacuum": {
+            "id": 2,
+            "type": 0,
+            "name": "Vacuum",
+            "description": "Sucks up your dirt."
+        },
+         "steam_mop": {
+            "id": 2,
+            "type": 0,
+            "name": "Steam Mop",
+            "description": "Steam cleans your hardwood floors."
+        },
+         "broom": {
+            "id": 2,
+            "type": 0,
+            "name": "Broom",
+            "description": "Use this to sweep the floor before you vacuum and mop."
+        },
+        "sofa": {
+            "id": 3,
+            "type": 0,
+            "name": "Sofa",
+            "description": "This is used for taking naps."
+        },
+        "television": {
+            "id": 3,
+            "type": 0,
+            "name": "Television",
+            "description": "Horizontal machine you can stare into."
+        },
+        "bed": {
+            "id": 3,
+            "type": 0,
+            "name": "Bed",
+            "description": "For sleeping."
+        },
+        "pillows": {
+            "id": 4,
+            "type": 0,
+            "name": "Pillows",
+            "description": "Make your head cozy."
+        },
+        "blankets": {
+            "id": 4,
+            "type": 0,
+            "name": "Blankets",
+            "description": "If you're into being warm."
+        },
+        "towels": {
+            "id": 4,
+            "type": 0,
+            "name": "Towels",
+            "description": "Dry your body or stuff in your house."
+        },
+        "curtains": {
+            "id": 5,
+            "type": 0,
+            "name": "Curtains",
+            "description": "Keep the light out."
+        },
+        "rug": {
+            "id": 5,
+            "type": 0,
+            "name": "Rug",
+            "description": "Really ties the room together."
+        },
+        "plants": {
+            "id": 5,
+            "type": 0,
+            "name": "Plants",
+            "description": "Filters your air."
+        },
+
+
+    }]
+}
+
