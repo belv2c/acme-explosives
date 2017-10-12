@@ -1,0 +1,12 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "Appliances"
+        },
+        {
+            "id": 1,
+            "name": "Household"
+        }
+    ]
+}

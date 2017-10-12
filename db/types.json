@@ -1,0 +1,40 @@
+{
+  "types": [
+    {
+      "id": 0,
+      "category": 0,
+      "name": "kitchen",
+      "description": "Kitchen appliances for all of your cooking needs"
+    },
+    {
+      "id": 1,
+      "category": 0,
+      "name": "bathroom",
+      "description": "Everything you need for a functional bathroom"
+    },
+    {
+      "id": 2,
+      "category": 0,
+      "name": "domestic",
+      "description": "Used for routine housekeeping tasks"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "name": "hardgoods",
+      "description": "Durable goods such as furniture"
+    },
+    {
+      "id": 4,
+      "category": 1,
+      "name": "softgoods",
+      "description": "Goods that are literally soft"
+    },
+    {
+      "id": 5,
+      "category": 1,
+      "name": "decorations",
+      "description": "Makes your house cute"
+    }
+  ]
+}
