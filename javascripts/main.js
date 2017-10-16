@@ -4,6 +4,6 @@ console.log("main.js");
 
 const data = require("./data");
 
-$(document).ready(() => {
-	/*data.initializer();*/
+$(document).ready(function() {
+	data.initializer();
 });
