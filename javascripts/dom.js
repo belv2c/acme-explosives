@@ -19,4 +19,4 @@ const writeToDom = (strang) => {
 	productDiv.append(strang);
 };
 
-module.exports = {buildDomString};
+module.exports = buildDomString;
