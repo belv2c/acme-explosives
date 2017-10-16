@@ -7,104 +7,104 @@
             "description": "A machine for keeping things cold."
         },
          "oven": {
-            "id": 0,
+            "id": 1,
             "type": 0,
             "name": "Oven",
             "description": "A machine commonly used for cooking."
         },
          "dish_washer": {
-            "id": 0,
+            "id": 2,
             "type": 0,
             "name": "Dish Washer",
             "description": "A machine for washing dirty dishes."
         },
          "bathtub": {
-            "id": 1,
-            "type": 0,
+            "id": 3,
+            "type": 1,
             "name": "Bathtub",
             "description": "Wash yo self."
         },
          "sink": {
-            "id": 1,
-            "type": 0,
+            "id": 4,
+            "type": 1,
             "name": "Sink",
             "description": "Wash yo hands."
         },
          "shower-head": {
-            "id": 1,
-            "type": 0,
+            "id": 5,
+            "type": 1,
             "name": "Shower Head",
             "description": "Take a shower instead of a bath you weirdo."
         },
          "vacuum": {
-            "id": 2,
-            "type": 0,
+            "id": 6,
+            "type": 2,
             "name": "Vacuum",
             "description": "Sucks up your dirt."
         },
          "steam_mop": {
-            "id": 2,
-            "type": 0,
+            "id": 7,
+            "type": 2,
             "name": "Steam Mop",
             "description": "Steam cleans your hardwood floors."
         },
          "broom": {
-            "id": 2,
-            "type": 0,
+            "id": 8,
+            "type": 2,
             "name": "Broom",
             "description": "Use this to sweep the floor before you vacuum and mop."
         },
         "sofa": {
-            "id": 3,
-            "type": 0,
+            "id": 9,
+            "type": 3,
             "name": "Sofa",
             "description": "This is used for taking naps."
         },
         "television": {
-            "id": 3,
-            "type": 0,
+            "id": 10,
+            "type": 3,
             "name": "Television",
             "description": "Horizontal machine you can stare into."
         },
         "bed": {
-            "id": 3,
-            "type": 0,
+            "id": 11,
+            "type": 3,
             "name": "Bed",
             "description": "For sleeping."
         },
         "pillows": {
-            "id": 4,
-            "type": 0,
+            "id": 12,
+            "type": 4,
             "name": "Pillows",
             "description": "Make your head cozy."
         },
         "blankets": {
-            "id": 4,
-            "type": 0,
+            "id": 13,
+            "type": 4,
             "name": "Blankets",
             "description": "If you're into being warm."
         },
         "towels": {
-            "id": 4,
-            "type": 0,
+            "id": 14,
+            "type": 4,
             "name": "Towels",
             "description": "Dry your body or stuff in your house."
         },
         "curtains": {
-            "id": 5,
-            "type": 0,
+            "id": 15,
+            "type": 5,
             "name": "Curtains",
             "description": "Keep the light out."
         },
         "rug": {
-            "id": 5,
-            "type": 0,
+            "id": 16,
+            "type": 5,
             "name": "Rug",
             "description": "Really ties the room together."
         },
         "plants": {
-            "id": 5,
-            "type": 0,
+            "id": 17,
+            "type": 5,
             "name": "Plants",
             "description": "Filters your air."
         },
