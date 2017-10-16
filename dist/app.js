@@ -23,5 +23,11 @@ module.exports = {categoriesJSON};
 },{}],2:[function(require,module,exports){
 "use strict";
 
+console.log("main.js");
+
 const data = require("./data");
+
+$(document).ready(() => {
+	/*data.initializer();*/
+});
 },{"./data":1}]},{},[2]);
